@@ -65,6 +65,12 @@ public:
   void
   UpdateBucket( int bucket );
 
+  double
+  GetFillRate( int bucket );
+
+  void
+  SetFillRate( int bucket, double value );
+
 protected:
 
   EventId m_sendEvent; ///< @brief EventId of pending "send packet" event
