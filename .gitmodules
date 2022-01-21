@@ -6,4 +6,4 @@
 	url = https://github.com/NmsuNsol/NDN-PowerSysCoSim
 [submodule "NFD"]
 	path = NFD
-	url = https://github.com/nsol-nmsu/NFD-QoS
+	url = https://github.com/ericbinnendyk/NFD-QoS.git
